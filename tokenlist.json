@@ -1,0 +1,42 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "timestamp": "2023-05-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "keywords": [
+    "busd",
+    "usdt,
+    "usdc"
+  ],
+  "tokens": [
+    {
+        "name": "BUSD",
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/ultraproblockchain/danielupro/main/busd.png"
+    },
+    {
+        "name": "USDT",
+        "address": "0x2b90e061a517db2bbd7e39ef7f733fd234b494ca",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/ultraproblockchain/danielupro/main/usdt.png"
+    },
+    {
+        "name": "USDC",
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "symbol": "USDC",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/ultraproblockchain/danielupro/main/usdc.png"
+    }
+  ]
+}

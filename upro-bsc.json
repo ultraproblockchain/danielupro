@@ -1,0 +1,25 @@
+{
+  "name": "ULTRA PRO Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/ultraproblockchain/danielupro/main/logoupro.png",
+  "keywords": [
+    "wupro",
+    "upro"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped UPRO",
+        "address": "0xdD04f694E8038D65D34eE6E2fd7f673ce83969FD",
+        "symbol": "WUPRO",
+        "decimals": 18,
+        "chainId": 473861,
+        "logoURI": "https://raw.githubusercontent.com/ultraproblockchain/danielupro/main/logoupro.png"
+    }
+  ]
+}
